@@ -1,0 +1,10 @@
+body{
+  background-image:url("background.jpg") ;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  font-family: 'Noto Sans', sans-serif;
+  text-decoration: none;
+
+}
